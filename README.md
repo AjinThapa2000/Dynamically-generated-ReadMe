@@ -1,4 +1,4 @@
-# ReadMe-Generator
+# README_Generator
   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ### Discription
@@ -11,12 +11,11 @@
 
   * [Usage](#usage)
 
-  
- * [License](#license)
+  * [License](#license)
 
-  * [Contribution](#contribution)
+  * [Contributing](#contributing)
 
-  * [Test](#test)
+  * [Test](#Test)
 
   * [Questions](#questions)
 
@@ -32,11 +31,16 @@
   ## Usage
   node 16
 
+  ## License
+
+  
+ * [License](#license)
+
   ## Contributing
 
   pull request
 
-  ## Run test
+  ## Test
 
   use command below:
   

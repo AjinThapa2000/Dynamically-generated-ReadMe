@@ -25,11 +25,11 @@ function generateMarkdown(data) {
 
   * [Usage](#usage)
 
-  ${getLicenseLink(data.license)}
+  * [License](#license)
 
-  * [Contribution](#contribution)
+  * [Contributing](#contributing)
 
-  * [Test](#test)
+  * [Test](#Test)
 
   * [Questions](#questions)
 
@@ -45,11 +45,15 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
 
+  ## License
+
+  ${getLicenseLink(data.license)}
+
   ## Contributing
 
   ${data.contributing}
 
-  ## Run test
+  ## Test
 
   use command below:
   
