@@ -53,6 +53,10 @@
   write me at: dineshthapa2000@gmail.com
 
   view my work at: https://github.com/AjinThapa2000
+  
+  ## Screen Record of Project
+  
+  ![ Alt text](project. gif) / ! [](project. gif)
 
   
 
