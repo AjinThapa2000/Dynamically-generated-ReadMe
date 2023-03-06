@@ -56,7 +56,7 @@
   
   ## Screen Record of Project
   
-  ![ Alt text](project. gif) / ! [](project. gif)
+  ![](project.gif)
 
   
 
